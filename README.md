@@ -1,4 +1,4 @@
-# Abdulrahman Al-Mamari's Portfolio
+# Abdulrahman Al-Mamari Portfolio
 
 Welcome to the GitHub repository for Abdulrahman Al-Mamari's personal portfolio website! This portfolio showcases my skills, projects, and contact information, providing a comprehensive overview of my work as a Full Stack Developer.
 
