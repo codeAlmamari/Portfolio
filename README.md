@@ -6,11 +6,6 @@ Welcome to the GitHub repository for Abdulrahman Al-Mamari's personal portfolio 
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
